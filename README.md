@@ -1,2 +1,3 @@
 # CyberPatriot
-Different things for CyberPatriot
+Ubuntu scripts for cyber patriot
+
